@@ -10,14 +10,14 @@
 
   Responsive Portfolio Website using HTML, CSS, and JavaScript.
 
-  <a href="https://mohitkr01.github.io/mohitPortfolioNew/"><strong>➥ Live Demo</strong></a>
+  <a href="https://mohitkr01.github.io/mohitPortfolio/"><strong>➥ Live Demo</strong></a>
 </div>
 
 <br />
 
 ### Desktop Preview
 
-<a href="https://mohitkr01.github.io/mohitPortfolioNew/"><strong>➥ Desktop Preview</strong></a>
+<a href="https://mohitkr01.github.io/mohitPortfolio/"><strong>➥ Desktop Preview</strong></a>
 
 ### Prerequisites
 
